@@ -1,0 +1,21 @@
+
+Preguntar contrato by N/S
+
+Preguntar carta de Salida
+
+contar ganadoras o contar perdedoras
+
+f. DecidirGanar_Perder(suit jugado, suit triunfo, sur, norte, competencia)
+
+Si decido Perder => (Mas chica en ambos lados)
+
+Si decido Ganar = F. es Seguro o Riesgo?
+    Si es Seguro = Puedo ganar en ambos lados ?
+        Si puedo ganar en ambos lados?
+            Donde quiero quedar?
+
+Que es mas probable
+    Finesse
+    Fabricar por palo largo
+    Si quedan 5 entregar 1
+    
